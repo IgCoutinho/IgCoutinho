@@ -1,16 +1,23 @@
-## Hi there 👋
+# Igor Coutinho
 
-<!--
-**IgCoutinho/IgCoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend com foco em Java, construindo soluções com código limpo, organização em camadas e regras de negócio bem definidas.
 
-Here are some ideas to get you started:
+> Focado em transformar lógica de negócio em código eficiente e bem estruturado, com atenção a qualidade, clareza e evolução contínua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+Java | POO | SQL | Git | Backend
+
+## Sobre
+
+Atuação no desenvolvimento de aplicações orientadas a objetos, com foco em qualidade de código, clareza na lógica e boas práticas. Experiência prática com modelagem de sistemas e implementação de funcionalidades reais.
+
+## Atualmente
+
+Aprofundando conhecimentos em APIs REST, Spring Boot e arquitetura de software, evoluindo constantemente para construir sistemas mais robustos e escaláveis.
+
+## Contato
+
+LinkedIn: (adicione aqui)
+Email: (adicione aqui)
+
