@@ -2,8 +2,6 @@
 
 Desenvolvedor backend com foco em Java, construindo soluções com código limpo, organização em camadas e regras de negócio bem definidas.
 
-> Focado em transformar lógica de negócio em código eficiente e bem estruturado, com atenção a qualidade, clareza e evolução contínua.
-
 ## Stack
 
 Java | POO | SQL | Git | Backend
@@ -20,4 +18,3 @@ Aprofundando conhecimentos em APIs REST, Spring Boot e arquitetura de software, 
 
 LinkedIn: (adicione aqui)
 Email: (adicione aqui)
-
