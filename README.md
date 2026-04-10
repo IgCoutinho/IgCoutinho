@@ -16,5 +16,5 @@ Aprofundando conhecimentos em APIs REST, Spring Boot e arquitetura de software, 
 
 ## Contato
 
-LinkedIn: (adicione aqui)
-Email: (adicione aqui)
+LinkedIn: https://www.linkedin.com/in/igorfcoutinho/
+
